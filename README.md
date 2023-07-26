@@ -1,5 +1,4 @@
-Reads commands from a file specified by the user to draw an image and outputs design into another file
-The file the design is placed in, paint.txt, is created by the program
+Reads commands from a file specified by the user to draw an image and outputs design into another file. The file the design is placed in, paint.txt, is created by the program
 
 By default, character used for drawn line is *
 
