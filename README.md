@@ -4,7 +4,7 @@ By default, character used for drawn line is *
 
 
 Command Format:
-<PenStatus>,<Direction>,<Distance>,B (Optional), P (Optional)
+PenStatus,Direction,Distance,B (Optional),P (Optional)
 
 PenStatus - Determines if command draws line or moves cursor (Pen is lifted up)
                 1 = Pen up, moves cursor without drawing line
